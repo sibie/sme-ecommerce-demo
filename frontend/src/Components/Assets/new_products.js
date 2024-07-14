@@ -1,9 +1,9 @@
-import p1_img from './product_1.png'
-import p2_img from './product_2.png'
-import p3_img from './product_3.png'
-import p4_img from './product_4.png'
+import p1_img from "./product_1.png";
+import p2_img from "./product_2.png";
+import p3_img from "./product_3.png";
+import p4_img from "./product_4.png";
 
-let data_product = [
+let new_products = [
   {
     id:1,
     name:"Tesa Pet Cloth Wire Harness Tape",
@@ -31,4 +31,4 @@ let data_product = [
   },
 ];
 
-export default data_product;
+export default new_products;

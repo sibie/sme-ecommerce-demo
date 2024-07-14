@@ -20,6 +20,12 @@
     font-weight: 600;
 }
 
+.cost-divider {
+    color: #8c8c8c;
+    font-size: 18px;
+    font-weight: 500;
+}
+
 .item-unit {
     color: #8c8c8c;
     font-size: 18px;

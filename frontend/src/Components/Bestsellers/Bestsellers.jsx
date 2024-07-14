@@ -1,11 +1,11 @@
 import React from 'react'
-import './Bestseller.css'
+import './Bestsellers.css'
 import data_product from '../Assets/data'
 import { Item } from '../Item/Item'
 
-export const Bestseller = () => {
+export const Bestsellers = () => {
   return (
-    <div className='bestseller'>
+    <div className='bestsellers'>
         <h1>OUR BESTSELLERS</h1>
         <hr />
         <div className='bestseller-item'>

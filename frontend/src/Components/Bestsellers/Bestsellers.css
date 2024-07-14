@@ -1,4 +1,4 @@
-.bestseller {
+.bestsellers {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -6,13 +6,13 @@
     height: 90vh;
 }
 
-.bestseller h1 {
+.bestsellers h1 {
     color: #171717;
     font-size: 50px;
     font-weight: 600;
 }
 
-.bestseller hr {
+.bestsellers hr {
     width: 200px;
     height: 6px;
     border-radius: 10px;

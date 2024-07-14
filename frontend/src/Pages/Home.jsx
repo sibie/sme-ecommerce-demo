@@ -1,12 +1,16 @@
 import React from 'react'
 import { Hero } from '../Components/Hero/Hero'
-import { Bestseller } from '../Components/Bestseller/Bestseller'
+import { Bestsellers } from '../Components/Bestsellers/Bestsellers'
+import { NewProducts } from '../Components/NewProducts/NewProducts'
+import { Newsletter } from '../Components/Newsletter/Newsletter'
 
 export const Home = () => {
   return (
     <div>
         <Hero />
-        <Bestseller />
+        <Bestsellers />
+        <NewProducts />
+        <Newsletter />
     </div>
   )
 }
