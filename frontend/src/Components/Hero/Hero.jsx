@@ -12,10 +12,9 @@ export const Hero = () => {
                 <p>Unmatched Quality, Unbeatable Service</p>
             </div>
             </div>
-            <h2>Since 1980 - ABC Inc. continues to be the premier wholesaler</h2>
-            <h2>of tapes, adhesives and pigments in Chennai, servicing the</h2>
-            <h2>requirements of clientele from a variety of industries including</h2>
-            <h2>construction, electronics, automotive manufacturing and more.</h2>
+            <h2>Since 1980 - ACME Corporation continues to be the leading</h2>
+            <h2>wholesaler of industrial machines, equipment and tools for</h2>
+            <h2>construction and manufacturing companies in Chennai.</h2>
             <div className='hero-latest-btn'>
                 <div>Learn More</div>
                 <img src={arrow_icon} alt=""></img>
